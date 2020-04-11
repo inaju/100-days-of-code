@@ -7,7 +7,7 @@
 
 **Thoughts:**  This was a bit easy, i followed a simple tutorial
 
-**Link to work:** [Sendmail] (https://github.com/inaju/sendmail.git)
+**Link to work:** [Sendmail] (https://github.com/inaju/sendmail)
 
 ### Day 2: Saturday, April 11
 
