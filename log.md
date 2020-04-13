@@ -25,3 +25,13 @@
 
 **Link(s) to work**: [WebScrape](https://github.com/inaju/webscrape)
 
+
+
+### Day 4: Monday, April 13
+
+**Today's Progress**: I integrated the webscrapper into a django app
+
+**Thoughts**: I had some issues, but i got through them, thanks to starkoverflow, there's still an outstanding issue tho.
+
+**Link(s) to work**: [jobfinder](https://github.com/inaju/jobfinder)
+
